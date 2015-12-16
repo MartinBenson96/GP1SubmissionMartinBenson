@@ -1,0 +1,162 @@
+﻿Build started 16/12/2015 11:44:36.
+     1>Project "c:\Users\Martin\documents\visual studio 2015\Projects\Spy Hunter\Spy Hunter\Spy Hunter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt asteroidsGame.cpp cAsteroid.cpp cBkGround.cpp cBullet.cpp cButton.cpp cFont.cpp cFontMgr.cpp cInputMgr.cpp cRocket.cpp cSound.cpp cSoundMgr.cpp cSprite.cpp cTexture.cpp cWNDManager.cpp main.cpp windowOGL.cpp
+         windowOGL.cpp
+         main.cpp
+         cWNDManager.cpp
+         cTexture.cpp
+         cSprite.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(180): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(182): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(184): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(206): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(241): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(242): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(243): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(244): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(301): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(313): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(314): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\csprite.cpp(315): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cSoundMgr.cpp
+         cSound.cpp
+         cRocket.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\crocket.cpp(23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\crocket.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\crocket.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\crocket.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\crocket.cpp(93): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+         cInputMgr.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cinputmgr.cpp(209): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cinputmgr.cpp(225): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+         cFontMgr.cpp
+         cFont.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cfont.cpp(69): warning C4244: 'argument': conversion from 'FTGL_DOUBLE' to 'GLfloat', possible loss of data
+         cButton.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbutton.cpp(41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbutton.cpp(43): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbutton.cpp(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbutton.cpp(71): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbutton.cpp(73): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbutton.cpp(75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+         cBullet.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(91): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(102): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(103): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(104): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\cbullet.cpp(105): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+         cBkGround.cpp
+         cAsteroid.cpp
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(86): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(97): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(98): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(99): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+     1>c:\users\martin\documents\visual studio 2015\projects\spy hunter\spy hunter\casteroid.cpp(100): warning C4244: 'argument': conversion from 'LONG' to 'GLfloat', possible loss of data
+         asteroidsGame.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\martin\documents\visual studio 2015\Projects\Spy Hunter\x64\Debug\Spy Hunter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\martin\documents\visual studio 2015\Projects\Spy Hunter\x64\Debug\Spy Hunter.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\martin\documents\visual studio 2015\Projects\Spy Hunter\x64\Debug\Spy Hunter.lib" /MACHINE:X64 x64\Debug\asteroidsGame.obj
+         x64\Debug\cAsteroid.obj
+         x64\Debug\cBkGround.obj
+         x64\Debug\cBullet.obj
+         x64\Debug\cButton.obj
+         x64\Debug\cFont.obj
+         x64\Debug\cFontMgr.obj
+         x64\Debug\cInputMgr.obj
+         x64\Debug\cRocket.obj
+         x64\Debug\cSound.obj
+         x64\Debug\cSoundMgr.obj
+         x64\Debug\cSprite.obj
+         x64\Debug\cTexture.obj
+         x64\Debug\cWNDManager.obj
+         x64\Debug\main.obj
+         x64\Debug\windowOGL.obj
+         alut.lib
+         DevIL.lib
+         freeglut.lib
+         ftgl.lib
+         ILU.lib
+         ILUT.lib
+         OpenAL32.lib
+     1>cFont.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl FTPoint::FTPoint(void)" (__imp_??0FTPoint@@QEAA@XZ) referenced in function "public: void __cdecl cFont::printText(char const *,class FTPoint)" (?printText@cFont@@QEAAXPEBDVFTPoint@@@Z)
+     1>cFont.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: double __cdecl FTPoint::X(void)const " (__imp_?X@FTPoint@@QEBANXZ) referenced in function "public: void __cdecl cFont::printText(char const *,class FTPoint)" (?printText@cFont@@QEAAXPEBDVFTPoint@@@Z)
+     1>cFont.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: double __cdecl FTPoint::Y(void)const " (__imp_?Y@FTPoint@@QEBANXZ) referenced in function "public: void __cdecl cFont::printText(char const *,class FTPoint)" (?printText@cFont@@QEAAXPEBDVFTPoint@@@Z)
+     1>cFont.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl FTTextureFont::FTTextureFont(char const *)" (__imp_??0FTTextureFont@@QEAA@PEBD@Z) referenced in function "public: __cdecl cFont::cFont(char const *,int)" (??0cFont@@QEAA@PEBDH@Z)
+     1>cFont.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl FTTextureFont::~FTTextureFont(void)" (__imp_??1FTTextureFont@@UEAA@XZ) referenced in function "public: virtual void * __cdecl FTTextureFont::`scalar deleting destructor'(unsigned int)" (??_GFTTextureFont@@UEAAPEAXI@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual float __cdecl FTFont::Advance(char const *,int,class FTPoint)" (?Advance@FTFont@@UEAAMPEBDHVFTPoint@@@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual float __cdecl FTFont::Advance(wchar_t const *,int,class FTPoint)" (?Advance@FTFont@@UEAAMPEB_WHVFTPoint@@@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual float __cdecl FTFont::Ascender(void)const " (?Ascender@FTFont@@UEBAMXZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl FTFont::Attach(char const *)" (?Attach@FTFont@@UEAA_NPEBD@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl FTFont::Attach(unsigned char const *,unsigned __int64)" (?Attach@FTFont@@UEAA_NPEBE_K@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual class FTBBox __cdecl FTFont::BBox(char const *,int,class FTPoint,class FTPoint)" (?BBox@FTFont@@UEAA?AVFTBBox@@PEBDHVFTPoint@@1@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual class FTBBox __cdecl FTFont::BBox(wchar_t const *,int,class FTPoint,class FTPoint)" (?BBox@FTFont@@UEAA?AVFTBBox@@PEB_WHVFTPoint@@1@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl FTFont::CharMap(enum FT_Encoding_)" (?CharMap@FTFont@@UEAA_NW4FT_Encoding_@@@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual unsigned int __cdecl FTFont::CharMapCount(void)const " (?CharMapCount@FTFont@@UEBAIXZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual enum FT_Encoding_ * __cdecl FTFont::CharMapList(void)" (?CharMapList@FTFont@@UEAAPEAW4FT_Encoding_@@XZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl FTFont::Depth(float)" (?Depth@FTFont@@UEAAXM@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual float __cdecl FTFont::Descender(void)const " (?Descender@FTFont@@UEBAMXZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl FTFont::Error(void)const " (?Error@FTFont@@UEBAHXZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl FTFont::FaceSize(unsigned int,unsigned int)" (?FaceSize@FTFont@@UEAA_NII@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual unsigned int __cdecl FTFont::FaceSize(void)const " (?FaceSize@FTFont@@UEBAIXZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl FTFont::GlyphLoadFlags(int)" (?GlyphLoadFlags@FTFont@@UEAAXH@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual float __cdecl FTFont::LineHeight(void)const " (?LineHeight@FTFont@@UEBAMXZ)
+     1>cFont.obj : error LNK2001: unresolved external symbol "protected: virtual class FTGlyph * __cdecl FTTextureFont::MakeGlyph(struct FT_GlyphSlotRec_ *)" (?MakeGlyph@FTTextureFont@@MEAAPEAVFTGlyph@@PEAUFT_GlyphSlotRec_@@@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl FTFont::Outset(float)" (?Outset@FTFont@@UEAAXM@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl FTFont::Outset(float,float)" (?Outset@FTFont@@UEAAXMM@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual class FTPoint __cdecl FTFont::Render(char const *,int,class FTPoint,class FTPoint,int)" (?Render@FTFont@@UEAA?AVFTPoint@@PEBDHV2@1H@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual class FTPoint __cdecl FTFont::Render(wchar_t const *,int,class FTPoint,class FTPoint,int)" (?Render@FTFont@@UEAA?AVFTPoint@@PEB_WHV2@1H@Z)
+     1>cFont.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl FTFont::UseDisplayList(bool)" (?UseDisplayList@FTFont@@UEAAX_N@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alGetError referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alIsExtensionPresent referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alGenSources referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alDeleteSources referenced in function "public: void __cdecl cSound::cleanUp(void)" (?cleanUp@cSound@@QEAAXXZ)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alSourcei referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alGetSourcei referenced in function "public: void __cdecl cSound::cleanUp(void)" (?cleanUp@cSound@@QEAAXXZ)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alSourcePlay referenced in function "public: void __cdecl cSound::playAudio(char)" (?playAudio@cSound@@QEAAXD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alSourceStop referenced in function "public: void __cdecl cSound::stopAudio(void)" (?stopAudio@cSound@@QEAAXXZ)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alGenBuffers referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alDeleteBuffers referenced in function "public: void __cdecl cSound::cleanUp(void)" (?cleanUp@cSound@@QEAAXXZ)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alBufferData referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alcMakeContextCurrent referenced in function "public: void __cdecl cSound::cleanUp(void)" (?cleanUp@cSound@@QEAAXXZ)
+     1>cSoundMgr.obj : error LNK2001: unresolved external symbol __imp_alcMakeContextCurrent
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alutLoadWAVFile referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSound.obj : error LNK2019: unresolved external symbol __imp_alutUnloadWAV referenced in function "public: void __cdecl cSound::loadWAVFile(char const *)" (?loadWAVFile@cSound@@QEAAXPEBD@Z)
+     1>cSoundMgr.obj : error LNK2019: unresolved external symbol __imp_alcCreateContext referenced in function "protected: void __cdecl cSoundMgr::createContext(void)" (?createContext@cSoundMgr@@IEAAXXZ)
+     1>cSoundMgr.obj : error LNK2019: unresolved external symbol __imp_alcDestroyContext referenced in function "protected: __cdecl cSoundMgr::~cSoundMgr(void)" (??1cSoundMgr@@IEAA@XZ)
+     1>cSoundMgr.obj : error LNK2019: unresolved external symbol __imp_alcGetCurrentContext referenced in function "protected: __cdecl cSoundMgr::~cSoundMgr(void)" (??1cSoundMgr@@IEAA@XZ)
+     1>cSoundMgr.obj : error LNK2019: unresolved external symbol __imp_alcGetContextsDevice referenced in function "protected: __cdecl cSoundMgr::~cSoundMgr(void)" (??1cSoundMgr@@IEAA@XZ)
+     1>cSoundMgr.obj : error LNK2019: unresolved external symbol __imp_alcOpenDevice referenced in function "protected: void __cdecl cSoundMgr::createContext(void)" (?createContext@cSoundMgr@@IEAAXXZ)
+     1>cSoundMgr.obj : error LNK2019: unresolved external symbol __imp_alcCloseDevice referenced in function "protected: __cdecl cSoundMgr::~cSoundMgr(void)" (??1cSoundMgr@@IEAA@XZ)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilBindImage referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilConvertImage referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilDeleteImages referenced in function "public: __cdecl cTexture::~cTexture(void)" (??1cTexture@@QEAA@XZ)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilGenImages referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilGetData referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilGetInteger referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilInit referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>cTexture.obj : error LNK2019: unresolved external symbol __imp_ilLoadImage referenced in function "public: bool __cdecl cTexture::createTexture(char const *)" (?createTexture@cTexture@@QEAA_NPEBD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl FTPoint::FTPoint(double,double,double)" (__imp_??0FTPoint@@QEAA@NNN@Z) referenced in function WinMain
+     1>alut.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>DevIL.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>freeglut.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>ftgl.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>ILU.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>ILUT.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>OpenAL32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+     1>c:\users\martin\documents\visual studio 2015\Projects\Spy Hunter\x64\Debug\Spy Hunter.exe : fatal error LNK1120: 57 unresolved externals
+     1>Done Building Project "c:\Users\Martin\documents\visual studio 2015\Projects\Spy Hunter\Spy Hunter\Spy Hunter.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:21.24
